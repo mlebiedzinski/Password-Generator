@@ -1,6 +1,7 @@
 # Password-Generator
 
-Foundations of Cybersecurity Project 3 <br> 
+CY2550 Foundations of Cybersecurity <br>
+Project 3 <br> 
 Feburary 28th, 2023 <br> 
 ( Python ) <br> 
 
