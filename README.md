@@ -1,5 +1,7 @@
 # Password-Generator
 
+Foundations of Cybersecurity Project 3
+Feburary 28th, 2023
 ( Python )
 
 This program generates passwords using the XKCD method. It excepts a variety of optional arguments in order to vary the password: <br> 
