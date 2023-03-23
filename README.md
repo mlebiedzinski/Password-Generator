@@ -2,8 +2,8 @@
 
 ( Python )
 
-This program generates passwords using the XKCD method. It excepts a variety of optional arguments in order to vary the password:
--h, --help                      show this help message and exit
+This program generates passwords using the XKCD method. It excepts a variety of optional arguments in order to vary the password: \\
+-h, --help                      show this help message and exit \\
 -w WORDS, --words WORDS         include WORDS words in the password (default=4)
 -c CAPS, --caps CAPS            capitalize the first letter of CAPS random words (default=0)
 -n NUMBERS, --numbers NUMBERS   insert NUMBERS random numbers in the password (default=0)
