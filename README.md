@@ -14,5 +14,5 @@ This program generates passwords using the XKCD method. It excepts a variety of 
 <br> 
 an example input would be... <br> 
 <br> 
-./xkcdpwgen -w 2 -c 2 -n 3 -s 1 <br> 
+python xkcdpwgen.py -w 2 -c 2 -n 3 -s 1 <br> 
 This would return a password consisting of 2 random words with 2 capital letters, 3 numbers, and 1 symbol!
